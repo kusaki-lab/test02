@@ -1,6 +1,2 @@
 next 0000 line
 ----------
-line 03
-line 04
-line 05
-
